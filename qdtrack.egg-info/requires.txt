@@ -1,0 +1,7 @@
+bdd100k
+lvis
+motmetrics
+numpy
+pycocotools
+torch>=1.1
+torchvision
